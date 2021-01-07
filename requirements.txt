@@ -1,7 +1,7 @@
 Click==7.0
 defusedxml==0.6.0
 Genshi==0.7.3
-lxml==4.5.0
+lxml==4.6.2
 odfpy==1.4.1
 PyQt5==5.13.2
 PyQt5-sip==12.7.0
